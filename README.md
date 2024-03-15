@@ -4,7 +4,7 @@
 //  I’m looking to collaborate on ... nothing yet.  I'd be interested in any intern experiences, or other project opportunities.
 //  How to reach me: I can be reached at my professional email address, steamread@gmail.com.
 //  Pronouns: He/him/his
-//  Fun fact: I have experience with LARPing (live action roleplaying) and TTRPG (tabletop roleplaying).
+//  Fun fact: I have experience with stage theatre, TTRPG (tabletop roleplaying), computer gaming, and LARPing (live action roleplaying).
 
 <!---
 mjteegarden/mjteegarden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
